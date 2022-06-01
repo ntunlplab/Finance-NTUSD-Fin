@@ -36,8 +36,8 @@ There are 8 parts for each token (word, hashtag, or emoji), and they are saved i
 }
 ```
 
-# Download
-Click [here](http://nlg.csie.ntu.edu.tw/nlpresource/NTUSD-Fin/NTUSD-Fin.zip) to download data.
+# Data
+Download ```NTUSD-Fin.zip``` for the data.
 
 # How to Cite the Corpus
 Please cite the following paper when referring to the NTUSD-Fin in academic publications and papers.
